@@ -1,0 +1,5 @@
+allure-pytest
+jsonschema
+requests
+pytest
+jsonref
